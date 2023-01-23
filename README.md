@@ -3,7 +3,7 @@ Getting started with Markdown
 
 
 - [Getting started with Markdown](#getting-started-with-markdown)
-- [Titles](#titles)
+- [Titles](##titles)
 - [Paragraph](#paragraph)
 - [List](#list)
 	- [List CheckBox](#list-checkbox)
@@ -30,7 +30,7 @@ Getting started with Markdown
 
 ----------------------------------
 
-# Titles 
+## Titles 
 
 ### Title 1
 ### Title 2
